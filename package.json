@@ -1,5 +1,5 @@
 {
-  "name": "node-gsap",
+  "name": "gsap",
   "version": "0.0.1",
   "description": "GSAP for NodeJS ES6",
   "main": "index.js",
