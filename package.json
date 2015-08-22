@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:MadebyAe/node-gsap.git"
+    "url": "git@github.com:MadebyAe/gsap.git"
   },
   "keywords": [
     "GSAP",
@@ -18,7 +18,8 @@
   "author": "Ae <hi@angel-estrada.com> (http://www.angel-estrada.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MadebyAe/node-gsap/issues"
+    "url": "https://github.com/MadebyAe/gsap/issues"
   },
-  "homepage": "https://github.com/MadebyAe/node-gsap"
+  "homepage": "https://github.com/MadebyAe/gsap",
+  "dependencies": {}
 }
