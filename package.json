@@ -1,0 +1,24 @@
+{
+  "name": "node-gsap",
+  "version": "0.0.1",
+  "description": "GSAP for NodeJS ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MadebyAe/node-gsap.git"
+  },
+  "keywords": [
+    "GSAP",
+    "Tween",
+    "TweenMax"
+  ],
+  "author": "Ae <hi@angel-estrada.com> (http://www.angel-estrada.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadebyAe/node-gsap/issues"
+  },
+  "homepage": "https://github.com/MadebyAe/node-gsap"
+}
