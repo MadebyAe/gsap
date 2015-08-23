@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/MadebyAe/gsap/issues"
   },
-  "homepage": "https://github.com/MadebyAe/gsap",
-  "dependencies": {
-    "gsap": "git://github.com/greensock/GreenSock-JS.git"
-  }
+  "homepage": "https://github.com/MadebyAe/gsap"
 }
